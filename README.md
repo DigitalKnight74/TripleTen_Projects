@@ -18,7 +18,7 @@ from exploratory analysis to model deployment-ready solutions.
 | [Sprint 10 — Integrated Project](#sprint-10--integrated-project) | [Gold Recovery Prediction (Zyfra)](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2010%20-%20Gold%20Recovery%20Prediction%20Project%20(Zyfra)/Gold_Recovery_Prediction_(Zyfra%20Project).ipynb) | Predicting gold recovery from ore to optimize production pipelines | Python, pandas, sklearn, RandomForest, XGBoost |
 | [Sprint 11 — Linear Algebra](#sprint-11--linear-algebra) | [Sure Tomorrow Insurance](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2011%20-%20Linear%20Algebra/Sure_Tomorrow_Insurance.ipynb) | Multi-task ML project including data obfuscation for privacy protection | Python, pandas, sklearn, LinearRegression, KNeighbors |
 | [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Rusty_Bargain_Used_Car_Sales.ipynb) | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
-| [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast]() | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
+| [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2013%20-%20Time%20Series/Sweet_Lift_Taxi_Company.ipynb) | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
 
 ---
 
