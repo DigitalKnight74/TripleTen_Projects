@@ -19,7 +19,7 @@ from exploratory analysis to model deployment-ready solutions.
 | [Sprint 11 — Linear Algebra](#sprint-11--linear-algebra) | [Sure Tomorrow Insurance](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2011%20-%20Linear%20Algebra/Sure_Tomorrow_Insurance.ipynb) | Multi-task ML project including data obfuscation for privacy protection | Python, pandas, sklearn, LinearRegression, KNeighbors |
 | [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Rusty_Bargain_Used_Car_Sales.ipynb) | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
 | [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2013%20-%20Time%20Series/Sweet_Lift_Taxi_Company.ipynb) | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
-| [Sprint 14 — ML for Text](#sprint-14--ml-for-text) | [Film Junky Union - Sentiment Classification]() | IMDB movie review sentiment classification using NLP | Python, pandas, sklearn, NLTK, spaCy, LightGBM, TF-IDF |
+| [Sprint 14 — ML for Text](#sprint-14--ml-for-text) | [Film Junky Union - Sentiment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Film_Junky_Union.ipynb) | IMDB movie review sentiment classification using NLP | Python, pandas, sklearn, NLTK, spaCy, LightGBM, TF-IDF |
 
 ---
 
@@ -115,7 +115,7 @@ Predicted hourly taxi order volume at airports for Sweet Lift Taxi to help attra
 
 ## Sprint 14 — ML for Text
 
-### [Film Junky Union - Senitment Classification]()
+### [Film Junky Union - Senitment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Film_Junky_Union.ipynb)
 
 Developed an automated sentiment classification system for the Film Junky Union movie review platform to identify negative reviews. Trained and evaluated five models against a target F1 score of ≥ 0.85 on a dataset of 47,331 IMDB reviews. Applied TF-IDF vectorization with multiple classifiers including Logistic Regression, Naive Bayes, and LightGBM. Recommended Model 1 (NLTK + TF-IDF + Logistic Regression) as the optimal solution achieving F1 = 0.88 with the fastest training and prediction times.
 
