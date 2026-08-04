@@ -20,7 +20,7 @@ from exploratory analysis to model deployment-ready solutions.
 | [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Rusty_Bargain_Used_Car_Sales.ipynb) | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
 | [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2013%20-%20Time%20Series/Sweet_Lift_Taxi_Company.ipynb) | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
 | [Sprint 14 — ML for Text](#sprint-14--ml-for-text) | [Film Junky Union - Sentiment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Film_Junky_Union.ipynb) | IMDB movie review sentiment classification using NLP | Python, pandas, sklearn, NLTK, spaCy, LightGBM, TF-IDF |
-
+| [Sprint 17 — Customer Churn Prediction](#sprint-17--customer-churn-prediction) | [Interconnect - Customer Churn Prediction](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2017%20-%20Final%20Project/Interconnect_Telecom_Client_Churn.ipynb) | Telecom customer churn prediction to enable proactive retention offers | Python, pandas, sklearn, LightGBM, CatBoost, seaborn |
 ---
 
 ## Sprint 2 — EDA
@@ -120,6 +120,16 @@ Predicted hourly taxi order volume at airports for Sweet Lift Taxi to help attra
 Developed an automated sentiment classification system for the Film Junky Union movie review platform to identify negative reviews. Trained and evaluated five models against a target F1 score of ≥ 0.85 on a dataset of 47,331 IMDB reviews. Applied TF-IDF vectorization with multiple classifiers including Logistic Regression, Naive Bayes, and LightGBM. Recommended Model 1 (NLTK + TF-IDF + Logistic Regression) as the optimal solution achieving F1 = 0.88 with the fastest training and prediction times.
 
 **Tools:** Python | pandas | sklearn | NLTK | spaCy | LightGBM | TF-IDF | LogisticRegression | MultinomialNB | re | time | Jupyter Notebook | Git/GitHub
+
+---
+
+## Sprint 17 — Customer Churn Prediction
+
+### [Interconnect Telecom Client Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2017%20-%20Final%20Project/Interconnect_Telecom_Client_Churn.ipynb)
+
+Built an end-to-end churn prediction pipeline for Interconnect, a telecom operator, to help the marketing team proactively identify at-risk customers for retention offers. Merged and cleaned four separate datasets (contract, personal, internet, and phone service data) covering 7,043 customers, engineered a tenure feature and leakage-safe target, and trained three models against a target AUC-ROC of ≥ 0.88. Selected Model LightGBM as the optimal solution, achieving AUC-ROC = 0.9049 with the best balance of predictive quality and training speed, outperforming both a Logistic Regression baseline and CatBoost.
+
+**Tools:** Python | pandas | NumPy | scikit-learn | LightGBM | CatBoost | seaborn | matplotlib | Jupyter Notebook | Git/GitHub
 
 ---
 
