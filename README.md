@@ -10,14 +10,14 @@ from exploratory analysis to model deployment-ready solutions.
 
 | Sprint | Project | Description | Tools |
 |--------|---------|-------------|-------|
-| [Sprint 2 — EDA](#sprint-2--eda) | [Instacart Market Basket Analysis](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%202%20-%20EDA/Instacart_Market_Basket_Analysis.ipynb) | Exploratory analysis of customer ordering patterns | Python, pandas, numpy, matplotlib, seaborn |
-| [Sprint 5 — Statistics](#sprint-5--statistics) | [Video Game Sales Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%205%20-%20Video%20Game%20Sales%20Forecasting%20Project/Video_Game_Sales_Forecasting.ipynb) | Identifying patterns that determine whether a game succeeds | Python, pandas, numpy, matplotlib, seaborn, scipy.stats |
+| [Sprint 2 — EDA](#sprint-2--eda) | [Instacart Market Basket Analysis](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-2-EDA/Instacart_Market_Basket_Analysis.ipynb) | Exploratory analysis of customer ordering patterns | Python, pandas, numpy, matplotlib, seaborn |
+| [Sprint 5 — Statistics](#sprint-5--statistics) | [Video Game Sales Forecast]() | Identifying patterns that determine whether a game succeeds | Python, pandas, numpy, matplotlib, seaborn, scipy.stats |
 | [Sprint 7 — Intro to ML](#sprint-7--intro-to-ml) | [Megaline Mobile Plan Conversion](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-7-Machine-Learning/Megaline_Machine_Learning.ipynb) | Classification model to recommend mobile plans to subscribers | Python, pandas, numpy, sklearn, DecisionTree, RandomForest |
 | [Sprint 8 — Supervised Learning](#sprint-8--supervised-learning) | [Beta Bank Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-8-Supervised-Learning/Beta_Bank_Churn_v2.ipynb) | Predicting customer churn using classification models | Python, pandas, sklearn, DecisionTree, RandomForest, ExtraTrees |
 | [Sprint 9 — ML in Business](#sprint-9--ml-in-business) | [OilyGiant Mining Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-9-ML-in-Business/Oily_Giant_Mining_Company.ipynb) | Finding the best region for new oil wells using Bootstrapping | Python, pandas, numpy, sklearn, LinearRegression |
 | [Sprint 10 — Integrated Project](#sprint-10--integrated-project) | [Gold Recovery Prediction (Zyfra)](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-10-Gold-Recovery-Prediction-Zyfra/Gold_Recovery_Prediction_(Zyfra_Project).ipynb) | Predicting gold recovery from ore to optimize production pipelines | Python, pandas, sklearn, RandomForest, XGBoost |
 | [Sprint 11 — Linear Algebra](#sprint-11--linear-algebra) | [Sure Tomorrow Insurance](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-11-Linear-Algebra/Sure_Tomorrow_Insurance.ipynb) | Multi-task ML project including data obfuscation for privacy protection | Python, pandas, sklearn, LinearRegression, KNeighbors |
-| [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales]() | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
+| [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-12-Numerical-Methods/Rusty_Bargain_Used_Car_Sales.ipynb) | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
 | [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-13-Time-Series/Sweet_Lift_Taxi_Company.ipynb) | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
 | [Sprint 14 — ML for Text](#sprint-14--ml-for-text) | [Film Junky Union - Sentiment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-14-ML-for-Texts/Film_Junky_Union.ipynb) | IMDB movie review sentiment classification using NLP | Python, pandas, sklearn, NLTK, spaCy, LightGBM, TF-IDF |
 | [Sprint 17 — Customer Churn Prediction](#sprint-17--customer-churn-prediction) | [Interconnect - Customer Churn Prediction](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-17-Final-Project/Interconnect_Telecom_Client_Churn.ipynb) | Telecom customer churn prediction to enable proactive retention offers | Python, pandas, sklearn, LightGBM, CatBoost, seaborn |
@@ -25,7 +25,7 @@ from exploratory analysis to model deployment-ready solutions.
 
 ## Sprint 2 — EDA
 
-### [Instacart Market Basket Analysis](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%202%20-%20EDA/Instacart_Market_Basket_Analysis.ipynb)
+### [Instacart Market Basket Analysis](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-2-EDA/Instacart_Market_Basket_Analysis.ipynb)
 
 Explored customer ordering patterns from Instacart, an online grocery delivery service. Using transaction data from millions of orders, performed EDA to identify key trends in consumer behavior, product popularity, and reorder frequency. Insights derived could help optimize recommendations, marketing strategies, and inventory planning.
 
@@ -35,7 +35,7 @@ Explored customer ordering patterns from Instacart, an online grocery delivery s
 
 ## Sprint 5 — Statistics
 
-### [Video Game Sales Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%205%20-%20Video%20Game%20Sales%20Forecasting%20Project/Video_Game_Sales_Forecasting.ipynb)
+### [Video Game Sales Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-5-Video-Game-Sales-Forecasting-Project/Video_Game_Sales_Forecasting.ipynb)
 
 Worked for the online store Ice to identify patterns that determine whether a video game succeeds or not. Analyzed user and expert reviews, genres, platforms, and historical sales data going back to 2016 to plan advertising campaigns for the following year.
 
@@ -95,7 +95,7 @@ Multi-task ML project for Sure Tomorrow Insurance: customer similarity matching 
 
 ## Sprint 12 — Numerical Methods
 
-### [Rusty Bargain Used Car Sales Service]()
+### [Rusty Bargain Used Car Sales Service](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-12-Numerical-Methods/Rusty_Bargain_Used_Car_Sales.ipynb)
 
 Built a model to determine used car market value for the Rusty Bargain app. Evaluated multiple models comparing prediction quality, prediction speed, and training time. Applied gradient boosting techniques alongside traditional ensemble and linear methods.
 
