@@ -12,15 +12,15 @@ from exploratory analysis to model deployment-ready solutions.
 |--------|---------|-------------|-------|
 | [Sprint 2 — EDA](#sprint-2--eda) | [Instacart Market Basket Analysis](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%202%20-%20EDA/Instacart_Market_Basket_Analysis.ipynb) | Exploratory analysis of customer ordering patterns | Python, pandas, numpy, matplotlib, seaborn |
 | [Sprint 5 — Statistics](#sprint-5--statistics) | [Video Game Sales Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%205%20-%20Video%20Game%20Sales%20Forecasting%20Project/Video_Game_Sales_Forecasting.ipynb) | Identifying patterns that determine whether a game succeeds | Python, pandas, numpy, matplotlib, seaborn, scipy.stats |
-| [Sprint 7 — Intro to ML](#sprint-7--intro-to-ml) | [Megaline Mobile Plan Conversion](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%207%20-%20Machine%20Learning/Megaline_Machine_Learning.ipynb) | Classification model to recommend mobile plans to subscribers | Python, pandas, numpy, sklearn, DecisionTree, RandomForest |
-| [Sprint 8 — Supervised Learning](#sprint-8--supervised-learning) | [Beta Bank Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%208%20-%20Supervised%20Learning/Beta_Bank_Churn_v2.ipynb) | Predicting customer churn using classification models | Python, pandas, sklearn, DecisionTree, RandomForest, ExtraTrees |
-| [Sprint 9 — ML in Business](#sprint-9--ml-in-business) | [OilyGiant Mining Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%209%20-%20ML%20in%20Business/Oily_Giant_Mining_Company.ipynb) | Finding the best region for new oil wells using Bootstrapping | Python, pandas, numpy, sklearn, LinearRegression |
-| [Sprint 10 — Integrated Project](#sprint-10--integrated-project) | [Gold Recovery Prediction (Zyfra)](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2010%20-%20Gold%20Recovery%20Prediction%20Project%20(Zyfra)/Gold_Recovery_Prediction_(Zyfra%20Project).ipynb) | Predicting gold recovery from ore to optimize production pipelines | Python, pandas, sklearn, RandomForest, XGBoost |
-| [Sprint 11 — Linear Algebra](#sprint-11--linear-algebra) | [Sure Tomorrow Insurance](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2011%20-%20Linear%20Algebra/Sure_Tomorrow_Insurance.ipynb) | Multi-task ML project including data obfuscation for privacy protection | Python, pandas, sklearn, LinearRegression, KNeighbors |
-| [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Rusty_Bargain_Used_Car_Sales.ipynb) | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
-| [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2013%20-%20Time%20Series/Sweet_Lift_Taxi_Company.ipynb) | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
-| [Sprint 14 — ML for Text](#sprint-14--ml-for-text) | [Film Junky Union - Sentiment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Film_Junky_Union.ipynb) | IMDB movie review sentiment classification using NLP | Python, pandas, sklearn, NLTK, spaCy, LightGBM, TF-IDF |
-| [Sprint 17 — Customer Churn Prediction](#sprint-17--customer-churn-prediction) | [Interconnect - Customer Churn Prediction](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2017%20-%20Final%20Project/Interconnect_Telecom_Client_Churn.ipynb) | Telecom customer churn prediction to enable proactive retention offers | Python, pandas, sklearn, LightGBM, CatBoost, seaborn |
+| [Sprint 7 — Intro to ML](#sprint-7--intro-to-ml) | [Megaline Mobile Plan Conversion](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-7-Machine-Learning/Megaline_Machine_Learning.ipynb) | Classification model to recommend mobile plans to subscribers | Python, pandas, numpy, sklearn, DecisionTree, RandomForest |
+| [Sprint 8 — Supervised Learning](#sprint-8--supervised-learning) | [Beta Bank Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-8-Supervised-Learning/Beta_Bank_Churn_v2.ipynb) | Predicting customer churn using classification models | Python, pandas, sklearn, DecisionTree, RandomForest, ExtraTrees |
+| [Sprint 9 — ML in Business](#sprint-9--ml-in-business) | [OilyGiant Mining Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-9-ML-in-Business/Oily_Giant_Mining_Company.ipynb) | Finding the best region for new oil wells using Bootstrapping | Python, pandas, numpy, sklearn, LinearRegression |
+| [Sprint 10 — Integrated Project](#sprint-10--integrated-project) | [Gold Recovery Prediction (Zyfra)](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-10-Gold-Recovery-Prediction-Zyfra/Gold_Recovery_Prediction_(Zyfra_Project).ipynb) | Predicting gold recovery from ore to optimize production pipelines | Python, pandas, sklearn, RandomForest, XGBoost |
+| [Sprint 11 — Linear Algebra](#sprint-11--linear-algebra) | [Sure Tomorrow Insurance](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-11-Linear-Algebra/Sure_Tomorrow_Insurance.ipynb) | Multi-task ML project including data obfuscation for privacy protection | Python, pandas, sklearn, LinearRegression, KNeighbors |
+| [Sprint 12 — Numerical Methods](#sprint-12--numerical-methods) | [Rusty Bargain Used Car Sales]() | Predicting used car market value using gradient boosting and ensemble methods | Python, pandas, sklearn, LightGBM, CatBoost |
+| [Sprint 13 — Time Series](#sprint-13--time-series) | [Sweet Lift Taxi Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-13-Time-Series/Sweet_Lift_Taxi_Company.ipynb) | Hourly taxi order forecasting for airport demand planning | Python, pandas, sklearn, LightGBM, Seasonal Decompose |
+| [Sprint 14 — ML for Text](#sprint-14--ml-for-text) | [Film Junky Union - Sentiment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-14-ML-for-Texts/Film_Junky_Union.ipynb) | IMDB movie review sentiment classification using NLP | Python, pandas, sklearn, NLTK, spaCy, LightGBM, TF-IDF |
+| [Sprint 17 — Customer Churn Prediction](#sprint-17--customer-churn-prediction) | [Interconnect - Customer Churn Prediction](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-17-Final-Project/Interconnect_Telecom_Client_Churn.ipynb) | Telecom customer churn prediction to enable proactive retention offers | Python, pandas, sklearn, LightGBM, CatBoost, seaborn |
 ---
 
 ## Sprint 2 — EDA
@@ -45,7 +45,7 @@ Worked for the online store Ice to identify patterns that determine whether a vi
 
 ## Sprint 7 — Intro to ML
 
-### [Megaline Mobile Legacy to New Plan Conversion](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%207%20-%20Machine%20Learning/Megaline_Machine_Learning.ipynb)
+### [Megaline Mobile Legacy to New Plan Conversion](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-7-Machine-Learning/Megaline_Machine_Learning.ipynb)
 
 Mobile carrier Megaline needed a model to analyze subscriber behavior and recommend one of their newer plans: Smart or Ultra. Built and evaluated classification models targeting an accuracy threshold of 0.75.
 
@@ -55,7 +55,7 @@ Mobile carrier Megaline needed a model to analyze subscriber behavior and recomm
 
 ## Sprint 8 — Supervised Learning
 
-### [Beta Bank Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%208%20-%20Supervised%20Learning/Beta_Bank_Churn_v2.ipynb)
+### [Beta Bank Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-8-Supervised-Learning/Beta_Bank_Churn_v2.ipynb)
 
 Predicted whether a customer will leave Beta Bank soon, using historical behavior and contract data. Built classification models targeting an F1 score of at least 0.59, with additional AUC-ROC analysis.
 
@@ -65,7 +65,7 @@ Predicted whether a customer will leave Beta Bank soon, using historical behavio
 
 ## Sprint 9 — ML in Business
 
-### [OilyGiant Mining Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%209%20-%20ML%20in%20Business/Oily_Giant_Mining_Company.ipynb)
+### [OilyGiant Mining Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-9-ML-in-Business/Oily_Giant_Mining_Company.ipynb)
 
 Identified the best location for a new oil well across three regions using regression modeling and Bootstrapping to analyze potential profit and risk margins.
 
@@ -75,7 +75,7 @@ Identified the best location for a new oil well across three regions using regre
 
 ## Sprint 10 — Integrated Project
 
-### [Gold Recovery Prediction Model — Zyfra Prototype](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2010%20-%20Gold%20Recovery%20Prediction%20Project%20(Zyfra)/Gold_Recovery_Prediction_(Zyfra%20Project).ipynb)
+### [Gold Recovery Prediction Model — Zyfra Prototype](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-10-Gold-Recovery-Prediction-Zyfra/Gold_Recovery_Prediction_(Zyfra_Project).ipynb)
 
 Developed a prototype ML model for Zyfra to predict the amount of gold recovered from ore during extraction and purification. Accurate predictions eliminate unprofitable processing configurations and optimize production pipelines.
 
@@ -85,7 +85,7 @@ Developed a prototype ML model for Zyfra to predict the amount of gold recovered
 
 ## Sprint 11 — Linear Algebra
 
-### [Sure Tomorrow Insurance Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2011%20-%20Linear%20Algebra/Sure_Tomorrow_Insurance.ipynb)
+### [Sure Tomorrow Insurance Company](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-11-Linear-Algebra/Sure_Tomorrow_Insurance.ipynb)
 
 Multi-task ML project for Sure Tomorrow Insurance: customer similarity matching for marketing, insurance benefit prediction, linear regression for benefit count prediction, and data masking/obfuscation to protect client personal data without degrading model performance.
 
@@ -95,7 +95,7 @@ Multi-task ML project for Sure Tomorrow Insurance: customer similarity matching 
 
 ## Sprint 12 — Numerical Methods
 
-### [Rusty Bargain Used Car Sales Service](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Rusty_Bargain_Used_Car_Sales.ipynb)
+### [Rusty Bargain Used Car Sales Service]()
 
 Built a model to determine used car market value for the Rusty Bargain app. Evaluated multiple models comparing prediction quality, prediction speed, and training time. Applied gradient boosting techniques alongside traditional ensemble and linear methods.
 
@@ -105,7 +105,7 @@ Built a model to determine used car market value for the Rusty Bargain app. Eval
 
 ## Sprint 13 — Time Series
 
-### [Sweet Lift Taxi Company — Hourly Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2013%20-%20Time%20Series/Sweet_Lift_Taxi_Company.ipynb)
+### [Sweet Lift Taxi Company — Hourly Demand Forecast](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-13-Time-Series/Sweet_Lift_Taxi_Company.ipynb)
 
 Predicted hourly taxi order volume at airports for Sweet Lift Taxi to help attract more drivers during peak hours. Target RMSE on the test set was not to exceed 48. Applied time series decomposition and multiple regression/boosting models.
 
@@ -115,7 +115,7 @@ Predicted hourly taxi order volume at airports for Sweet Lift Taxi to help attra
 
 ## Sprint 14 — ML for Text
 
-### [Film Junky Union - Senitment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Film_Junky_Union.ipynb)
+### [Film Junky Union - Senitment Classification](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-14-ML-for-Texts/Film_Junky_Union.ipynb)
 
 Developed an automated sentiment classification system for the Film Junky Union movie review platform to identify negative reviews. Trained and evaluated five models against a target F1 score of ≥ 0.85 on a dataset of 47,331 IMDB reviews. Applied TF-IDF vectorization with multiple classifiers including Logistic Regression, Naive Bayes, and LightGBM. Recommended Model 1 (NLTK + TF-IDF + Logistic Regression) as the optimal solution achieving F1 = 0.88 with the fastest training and prediction times.
 
@@ -125,7 +125,7 @@ Developed an automated sentiment classification system for the Film Junky Union 
 
 ## Sprint 17 — Customer Churn Prediction
 
-### [Interconnect Telecom Client Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint%2017%20-%20Final%20Project/Interconnect_Telecom_Client_Churn.ipynb)
+### [Interconnect Telecom Client Churn](https://github.com/DigitalKnight74/TripleTen_Projects/blob/main/Sprint-17-Final-Project/Interconnect_Telecom_Client_Churn.ipynb)
 
 Built an end-to-end churn prediction pipeline for Interconnect, a telecom operator, to help the marketing team proactively identify at-risk customers for retention offers. Merged and cleaned four separate datasets (contract, personal, internet, and phone service data) covering 7,043 customers, engineered a tenure feature and leakage-safe target, and trained three models against a target AUC-ROC of ≥ 0.88. Selected Model LightGBM as the optimal solution, achieving AUC-ROC = 0.9049 with the best balance of predictive quality and training speed, outperforming both a Logistic Regression baseline and CatBoost.
 
